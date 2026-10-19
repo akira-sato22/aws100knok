@@ -12,7 +12,7 @@
     "preview": "vivliostyle preview"
   },
   "dependencies": {
-    "@vivliostyle/cli": "^8.17.1",
+    "@vivliostyle/cli": "^11.3.3",
     "@vivliostyle/vfm": "^2.2.1"
   },
   "engines": {
